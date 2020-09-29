@@ -27,7 +27,7 @@ Running tests:
 ```
 
 ## Homework 1. 
-02.10.20
+29.09.20
 
 Introduction
 
@@ -43,10 +43,23 @@ Introduction
 
     - create an quadratic equation solver
 
-- [1.4]()
+- [1.4](Introduction/SpaceDeletion/)
 
     - create program that removes whitespaces from string
 
-- [1.5]()
+- [1.5](Introduction/Logarithm/)
 
     - create program that counts logarithm
+
+## Homework 2. 
+06.10.20
+
+Programs execution
+
+- [1.1](ProgramsExecution/GCD/)
+
+    - create recursive GCD function
+
+- [1.2](ProgramsExecution/Revert/)
+
+    - create a program that recursively reverts sequence
