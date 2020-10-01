@@ -67,3 +67,12 @@ Programs execution
 - [2.3](ProgramsExecution/MoveArray/)
 
     - create a program that shifts array
+
+- [2.4](ProgramsExecution/StringLength/)
+
+    - create a program that calculates string length
+
+- [2.5](ProgramsExecution/StringCat/)
+
+    - create a program that concatenates strings
+
