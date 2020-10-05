@@ -76,3 +76,7 @@ Programs execution
 
     - create a program that concatenates strings
 
+- [2.6](ProgramsExecution/SubstringSearch/)
+
+    - create a program that returns index of first substring entrance
+
