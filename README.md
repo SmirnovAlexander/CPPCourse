@@ -80,3 +80,10 @@ Programs execution
 
     - create a program that returns index of first substring entrance
 
+- [2.7](ProgramsExecution/Resize/)
+
+    - create a function that resizes memory
+
+- [2.8](ProgramsExecution/Readline/)
+
+    - create function that reads line till end of stream
