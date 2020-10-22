@@ -91,3 +91,7 @@ Programs execution
 - [2.9](ProgramsExecution/Transpose/)
 
     - create function transposes 2d array
+
+- [2.10](ProgramsExecution/SwapMin/)
+
+    - create function that swaps rows of 2d array
