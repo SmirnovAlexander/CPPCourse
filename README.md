@@ -87,3 +87,7 @@ Programs execution
 - [2.8](ProgramsExecution/Readline/)
 
     - create function that reads line till end of stream
+
+- [2.9](ProgramsExecution/Transpose/)
+
+    - create function transposes 2d array
