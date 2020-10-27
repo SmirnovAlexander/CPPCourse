@@ -19,6 +19,7 @@ Executing:
 ```shell
 ./power
 2 5
+32
 ```
 
 Running tests:
