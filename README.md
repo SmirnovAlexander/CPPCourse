@@ -95,3 +95,20 @@ Programs execution
 - [2.10](ProgramsExecution/SwapMin/)
 
     - create function that swaps rows of 2d array
+
+## Homework 3. 
+31.10.20
+
+Structures and classes
+
+- [3.1](StructuresClasses/ConstructorCreation/)
+
+    - create constructor for string class (strlen and strcpy)
+
+- [3.2](StructuresClasses/StringFill)
+
+    - create constructor for string class (fill string with $n$ given chars)
+
+- [3.3](StructuresClasses/StringAppend)
+
+    - create method `append` for string class
