@@ -112,3 +112,7 @@ Structures and classes
 - [3.3](StructuresClasses/StringAppend)
 
     - create method `append` for string class
+
+- [3.4](StructuresClasses/AccessModifiers/)
+
+    - create function that accesses structure's private fields
