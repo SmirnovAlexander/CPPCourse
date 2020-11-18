@@ -119,3 +119,11 @@ Structures and classes
 - [3.4](StructuresClasses/AccessModifiers/)
 
     - create function that accesses structure's private fields
+
+- [3.5](StructuresClasses/CopyConstructor/)
+
+    - create copy constructor for string struct
+
+- [3.6](StructuresClasses/AssignmentOperator/)
+
+    - create assignment operator for string struct
